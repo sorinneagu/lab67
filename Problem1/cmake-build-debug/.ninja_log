@@ -1,0 +1,23 @@
+# ninja log v5
+10	373	7024997808831314	CMakeFiles/Problem1.dir/Circle.cpp.obj	a3ca686cf08e91bc
+25	377	7024997808891682	CMakeFiles/Problem1.dir/Square.cpp.obj	c87a8b1c9c8cf4e2
+17	381	7024997808841811	CMakeFiles/Problem1.dir/Shape.cpp.obj	6b129d42cf61a497
+0	454	7024997809699229	CMakeFiles/Problem1.dir/main.cpp.obj	c95dba4bd8c98fe5
+455	609	7024997811197933	Problem1.exe	69eef4d0b5588f7a
+4	445	7025024239468510	CMakeFiles/Problem1.dir/Circle.cpp.obj	a3ca686cf08e91bc
+24	455	7025024239548922	CMakeFiles/Problem1.dir/Shape.cpp.obj	6b129d42cf61a497
+34	456	7025024239538948	CMakeFiles/Problem1.dir/Square.cpp.obj	c87a8b1c9c8cf4e2
+14	511	7025024240167864	CMakeFiles/Problem1.dir/main.cpp.obj	c95dba4bd8c98fe5
+511	669	7025024241693075	Problem1.exe	69eef4d0b5588f7a
+4	406	7025025166276535	CMakeFiles/Problem1.dir/main.cpp.obj	c95dba4bd8c98fe5
+407	562	7025025167804384	Problem1.exe	69eef4d0b5588f7a
+4	388	7025025404438467	CMakeFiles/Problem1.dir/main.cpp.obj	c95dba4bd8c98fe5
+389	534	7025025405868715	Problem1.exe	69eef4d0b5588f7a
+4	403	7025025897648414	CMakeFiles/Problem1.dir/main.cpp.obj	c95dba4bd8c98fe5
+404	552	7025025899097728	Problem1.exe	69eef4d0b5588f7a
+4	390	7025026064123338	CMakeFiles/Problem1.dir/main.cpp.obj	c95dba4bd8c98fe5
+390	535	7025026065520590	Problem1.exe	69eef4d0b5588f7a
+4	398	7025026301799766	CMakeFiles/Problem1.dir/main.cpp.obj	c95dba4bd8c98fe5
+398	546	7025026303218897	Problem1.exe	69eef4d0b5588f7a
+4	442	7025026952190578	CMakeFiles/Problem1.dir/main.cpp.obj	c95dba4bd8c98fe5
+442	599	7025026953727493	Problem1.exe	69eef4d0b5588f7a
